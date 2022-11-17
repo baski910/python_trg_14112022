@@ -3,3 +3,6 @@ def addnum(a,b):
 
 def divnum(a,b):
     return a/b
+
+def sayhello():
+    print("helloworld")
